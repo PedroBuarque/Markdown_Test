@@ -19,7 +19,7 @@
 ## A Zoro image! **The most badass character in one piece**
 > By clicking it you will be redirect to my github profile
 
-[![Roronoa Zoro](https://ibb.co/LNVRTfG "Roronoa zoro")(https://github.com/PedroBuarque)]
+[![Roronoa Zoro](https://user-images.githubusercontent.com/48021158/186981086-29cb339c-bfe5-4cf5-b265-3638aac3a1f0.gif "Roronoa zoro")(https://github.com/PedroBuarque)]
 
 ```
 let message = 'Hello world';
